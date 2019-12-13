@@ -1,0 +1,90 @@
+Player Name: Aaron Finch
+Country: Australia
+Ability: Batsman
+Fees: 800000
+
+Player Name: Ahmed Shehzad
+Country: Pakistan
+Ability: Batsman
+Fees: 200000
+
+Player Name: Abinash Bohara
+Country: Nepal
+Ability: Bowler
+Fees: 50000
+
+Player Name: Adam Milne
+Country: New Zealand
+Ability: Bowler
+Fees: 300000
+
+Player Name: Adil Rashid
+Country: England
+Ability: All-Rounder
+Fees: 100000
+
+Player Name: Andile Phehlukwayo
+Country: South Africa
+Ability: All-Rounder
+Fees: 300000
+
+Player Name: Abey Kuruvilla
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player Name: Abhimanyu Mithun
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player Name: Ajay Jadeja
+Country: India
+Ability: Bowler
+Fees: 500000
+
+Player Name: Ajit Agarkar
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player Name: Bhuvneshwar Kumar
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player Name: Aakash Chopra
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player Name: Ajay Ratra
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player Name: Ajinkya Rahane
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player Name: Anil Kumble
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player Name: Aashish Kapoor
+Country: India
+Ability: All-Rounder
+Fees: 100000
+
+Player Name: Ambati Raydu
+Country: India
+Ability: Wicket Keeper
+Fees: 400000
+
+Player Name: Ashish Nehra
+Country: India
+Ability: Wicket Keeper
+Fees: 400000
+

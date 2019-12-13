@@ -1,0 +1,80 @@
+Player Name: David Miller
+Country: South Africa
+Ability: Batsman
+Fees: 600000
+
+Player Name: Elton Chigumbura
+Country: Zimbabwe
+Ability: Batsman
+Fees: 100000
+
+Player Name: Fabian Allen
+Country: West Indies
+Ability: Bowler
+Fees: 300000
+
+Player Name: Faheem Ashraf
+Country: Pakistan
+Ability: Bowler
+Fees: 700000
+
+Player Name: Dasun Shanaka
+Country: Sri Lanka
+Ability: All-Rounder
+Fees: 400000
+
+Player Name: Dwaine Pretorius
+Country: South Africa
+Ability: All-Rounder
+Fees: 100000
+
+Player Name: Virender Sehwag
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player Name: Washington Sundar
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player Name: Yuzvendra Chahal
+Country: India
+Ability: Bowler
+Fees: 500000
+
+Player Name: Robin Singh
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player Name: Rohit Sharma
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player Name: R. P. Singh
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player Name: Saba Karim
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player Name: Iqbal Siddiqui
+Country: India
+Ability: All-Rounder
+Fees: 600000
+
+Player Name: Venkatesh Prasad
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+
+Player Name: V. V. S. Laxman
+Country: India
+Ability: Wicket Keeper
+Fees: 600000
+

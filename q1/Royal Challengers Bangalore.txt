@@ -1,0 +1,90 @@
+Player Name: Chris Lynn
+Country: Australia
+Ability: Batsman
+Fees: 50000
+
+Player Name: Corey Anderson
+Country: New Zealand
+Ability: Batsman
+Fees: 100000
+
+Player Name: David Willey
+Country: England
+Ability: Bowler
+Fees: 700000
+
+Player Name: Dawlat Zadran
+Country: Afghanistan
+Ability: Bowler
+Fees: 50000
+
+Player Name: Danushka Gunathilaka
+Country: Sri Lanka
+Ability: All-Rounder
+Fees: 300000
+
+Player Name: D'Arcy Short
+Country: Australia
+Ability: All-Rounder
+Fees: 700000
+
+Player Name: Shikhar Dhawan
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player Name: S. Sreesanth
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player Name: Subroto Banerjee
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player Name: Venkatapathy Raju
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player Name: Vijay Dahiya
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player Name: Rahul Sanghvi
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player Name: Ramesh Powar
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player Name: Rashid Patel
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player Name: Ravichandran Ashwin
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player Name: Debashish Mohanty
+Country: India
+Ability: All-Rounder
+Fees: 500000
+
+Player Name: Shahbaz Nadeem
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+
+Player Name: Sourav Ganguly
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+

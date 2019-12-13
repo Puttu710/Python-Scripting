@@ -1,0 +1,90 @@
+Player Name: Ashfaq Ahmed
+Country: United Arab Emirates
+Ability: Batsman
+Fees: 100000
+
+Player Name: Asif Ali
+Country: Pakistan
+Ability: Batsman
+Fees: 100000
+
+Player Name: Billy Stanlake
+Country: Australia
+Ability: Bowler
+Fees: 700000
+
+Player Name: Boyd Rankin
+Country: England
+Ability: Bowler
+Fees: 300000
+
+Player Name: Carlos Brathwaite
+Country: West Indies
+Ability: All-Rounder
+Fees: 600000
+
+Player Name: Chamu Chibhabha
+Country: Zimbabwe
+Ability: All-Rounder
+Fees: 300000
+
+Player Name: Krunal Pandya
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player Name: Kuldeep Yadav
+Country: India
+Ability: Bowler
+Fees: 700000
+
+Player Name: Lakshmipathy Balaji
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player Name: Mohammed Shami
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player Name: Murali Kartik
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player Name: Karn Sharma
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player Name: Karun Nair
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player Name: Manish Pandey
+Country: India
+Ability: Batsman
+Fees: 300000
+
+Player Name: Mayank Agarwal
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player Name: Amit Mishra
+Country: India
+Ability: All-Rounder
+Fees: 400000
+
+Player Name: Naman Ojha
+Country: India
+Ability: Wicket Keeper
+Fees: 600000
+
+Player Name: Parthiv Patel
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+

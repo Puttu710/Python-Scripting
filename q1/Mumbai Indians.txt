@@ -1,0 +1,90 @@
+Player Name: Babar Azam
+Country: Pakistan
+Ability: Batsman
+Fees: 800000
+
+Player Name: Ben Cooper
+Country: Netherlands
+Ability: Batsman
+Fees: 400000
+
+Player Name: Chris Jordan
+Country: England
+Ability: Bowler
+Fees: 700000
+
+Player Name: Chris Morris
+Country: South Africa
+Ability: Bowler
+Fees: 600000
+
+Player Name: Chris Gayle
+Country: West Indies
+Ability: All-Rounder
+Fees: 500000
+
+Player Name: Colin de Grandhomme
+Country: New Zealand
+Ability: All-Rounder
+Fees: 700000
+
+Player Name: M. Venkataramana
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player Name: Nilesh Kulkarni
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player Name: Pragyan Ojha
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player Name: Pravin Amre
+Country: India
+Ability: Bowler
+Fees: 500000
+
+Player Name: Prithvi Shaw
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player Name: Mohammad Kaif
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player Name: Munaf Patel
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player Name: Murali Vijay
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player Name: Narendra Hirwani
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player Name: Atul Wassan
+Country: India
+Ability: All-Rounder
+Fees: 400000
+
+Player Name: Praveen Kumar
+Country: India
+Ability: Wicket Keeper
+Fees: 600000
+
+Player Name: Rishabh Pant
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+

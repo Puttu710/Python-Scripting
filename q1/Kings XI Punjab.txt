@@ -1,0 +1,90 @@
+Player Name: Aqib Ilyas
+Country: Oman
+Ability: Batsman
+Fees: 50000
+
+Player Name: Asghar Afghan
+Country: Afghanistan
+Ability: Batsman
+Fees: 300000
+
+Player Name: Ashton Agar
+Country: Australia
+Ability: Bowler
+Fees: 300000
+
+Player Name: Beuran Hendricks
+Country: South Africa
+Ability: Bowler
+Fees: 300000
+
+Player Name: Ben Stokes
+Country: England
+Ability: All-Rounder
+Fees: 300000
+
+Player Name: Calum MacLeod
+Country: Scotland
+Ability: All-Rounder
+Fees: 500000
+
+Player Name: Hardik Pandya
+Country: India
+Ability: Bowler
+Fees: 300000
+
+Player Name: Jasprit Bumrah
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player Name: Jayant Yadav
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player Name: Khaleel Ahmed
+Country: India
+Ability: Bowler
+Fees: 50000
+
+Player Name: KL Rahul
+Country: India
+Ability: Bowler
+Fees: 500000
+
+Player Name: Hrishikesh Kanitkar
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player Name: Irfan Pathan
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player Name: Ishant Sharma
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player Name: Javagal Srinath
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player Name: Ajay Sharma
+Country: India
+Ability: All-Rounder
+Fees: 600000
+
+Player Name: Jaydev Unadkat
+Country: India
+Ability: Wicket Keeper
+Fees: 100000
+
+Player Name: MS Dhoni
+Country: India
+Ability: Wicket Keeper
+Fees: 800000
+

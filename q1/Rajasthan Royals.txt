@@ -1,0 +1,90 @@
+Player Name: Bilal Zalmai
+Country: Austria
+Ability: Batsman
+Fees: 50000
+
+Player Name: Brendan Taylor
+Country: Zimbabwe
+Ability: Batsman
+Fees: 100000
+
+Player Name: Chris Mpofu
+Country: Zimbabwe
+Ability: Bowler
+Fees: 200000
+
+Player Name: Craig Young
+Country: Ireland
+Ability: Bowler
+Fees: 50000
+
+Player Name: Colin Munro
+Country: New Zealand
+Ability: All-Rounder
+Fees: 700000
+
+Player Name: Collins Obuya
+Country: Kenya
+Ability: All-Rounder
+Fees: 700000
+
+Player Name: Rahul Dravid
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player Name: Rajesh Chauhan
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player Name: Ravindra Jadeja
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player Name: Sameer Dighe
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player Name: Shardul Thakur
+Country: India
+Ability: Bowler
+Fees: 500000
+
+Player Name: Nayan Mongia
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player Name: Pankaj Singh
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player Name: Paras Mhambrey
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player Name: Piyush Chawla
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player Name: David Johnson
+Country: India
+Ability: All-Rounder
+Fees: 600000
+
+Player Name: Robin Uthappa
+Country: India
+Ability: Wicket Keeper
+Fees: 400000
+
+Player Name: Sanju Samson
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+
